@@ -42,7 +42,7 @@ The project is structured to promote code reusability and maintainability:
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/your-username/online-store.git`
+1. Clone the repository: `git clone https://github.com/Abubakr-Alsheikh/online-store.git`
 2. Set up a MySQL database and import the database schema (provided in `database_schema.sql`).
 3. Configure the database connection in `includes/database.php`.
 4. Set up a web server (e.g., Apache, XAMPP) and place the project files in the webroot directory.
